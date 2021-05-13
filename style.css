@@ -1,0 +1,102 @@
+*{
+    font-family: 'Amatic SC', cursive;
+}
+
+body {
+    margin: 0%;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: #ffecc2;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+.informacion{
+    width: 100%;
+    height: 50vh;
+    background:#746852;}
+
+.informacion h1{
+    width: 300px;   
+    margin: auto;
+}
+/* modificando elemento en linea */
+.informacion img {
+    margin: auto;
+    width: 200px;
+    display: block;
+    border-radius: 50%;
+}
+
+.informacion h2{
+    text-align: center;
+    color: #746852;;
+    background: white;
+    width: 200px;
+    margin: auto;
+}
+.informacion ul li {
+    display: inline-block;
+    width: 150px;
+    background: #ffecc2;
+    padding: 10px;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.informacion ul {
+    text-align: center;
+}
+
+.skills {
+ background: rgba(247, 243, 222, 0.85);
+ height:  50vh;
+}
+
+h3 {
+    margin: 0%;
+}
+
+.skills h3 {
+    text-align: center;
+    margin: 0%;
+    letter-spacing: 5px;
+}
+.skills ul{
+    width: 500px;
+    margin: auto;
+}
+
+.skills ul li {
+    list-style: none;
+    margin: auto;
+    padding: 15px;
+    font-size: 20px;
+    font-style: normal;
+    display: inline-block;
+    text-align: center;
+}
+
+.skills ul li img {
+    width: 50px;
+    display: block;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* https://htmlcolorcodes.com/es/ */
+/* https://fonts.google.com */
